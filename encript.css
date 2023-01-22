@@ -206,37 +206,54 @@ position: absolute;
 @media screen  and (max-width: 480px) {
     
     .encabezado{
-        width: 300%;
+        width: 100%;
     }
+    .titulo{
+        font-size: 23px;
+    }
+
 main{
-    width: 300%;
-    height: 2200px;
+    width: 100%;
+    height: 1550px;
 }
 
 
     #texto1{
         position: relative;
-        left: 150px;
-        width: 60%;
-top: 300px;
-height: 820px;
+        left: 20px;
+        width: 70%;
+top: 100px;
+height: 520px;
     }
 
 
     .encrip{
+        margin-top: 20px;
 
-        margin-left: 300px;
+        margin-left: 50px;
+        margin-right: 200px;
+        font-size: 25px;
+        width: 70%;
+    }
+    .encrip2{
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 27px;
+        width: 70%;
+
     }
     .pie{
-width: 300%;
+width: 100%;
 
 
 
     }
     .copy {
         position: relative;
-        left: 450px;
-        top: 350px;
+        left: 100px;
+        top: 150px;
+        font-size: 23px;
+        width: 50%;
 
 
 
@@ -245,13 +262,13 @@ width: 300%;
 
 
 #text{
-
-    font-size: 40px;
+margin-left: 20px;
+    font-size: 30px;
 }
 
 .LIST {
     font-size: 15px;
-    margin: 300px 0px 0px 0px;
+    margin: 20px 0px 0px 0px;
 }
 
 
